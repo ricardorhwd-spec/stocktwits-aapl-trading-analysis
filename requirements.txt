@@ -1,0 +1,7 @@
+pandas
+yfinance
+seaborn>=0.13
+matplotlib
+scipy
+ipython
+jupyter
